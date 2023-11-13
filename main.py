@@ -25,7 +25,7 @@ bot_info = data[1][0]
 
 def main():
     # Create a title for the chat interface
-    st.title("ClosersIO Bot (named Pat)")
+    st.title("Gepeto CRM Farmer Demo")
     st.write("To test, first select some fields then click the button below.")
   
     #variables for system prompt
